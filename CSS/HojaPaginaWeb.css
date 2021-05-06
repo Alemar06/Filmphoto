@@ -1,0 +1,140 @@
+header{
+   
+    background-color: deeppink;
+    color: dodgerblue;
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+}
+
+h1{
+    background-color: orange;
+    color: purple;
+    font-style: italic;
+    text-align: center;
+}
+
+h2{
+    font-style: oblique;
+}
+
+#parrafo1{
+    font-style:oblique;
+
+}
+
+#imagen1{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+body{
+    background-color:magenta;
+}
+
+a{
+    background-color: purple;
+    color: yellow;
+    font-style:oblique;
+    size: 200px;
+    
+    
+}
+#diferentescamaras{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#Flash{
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#Ampliadora{
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+#video1{
+    text-align: center;
+}
+#video{
+    text-align: center;
+    width: 100px;
+    height: 50px;
+
+}
+
+#parrafo2{
+    font-style: oblique;
+    text-align: center;
+}
+.menu li a:hover{
+    color: violet;
+    transition: all .3s;
+}
+.menu > li{
+    position: relative;
+    display: inline-block;
+}
+h1:hover{
+    background-color: purple;
+    color: orange;
+    font-style: italic;
+    text-align: center;
+}
+#GG{
+   text-align: center;
+}
+#Filmmm{
+        float: right;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        width: 280px;
+}
+#Frase{
+    text-align: center;
+    font-style:oblique;
+    background-color: aqua;
+    color: red;
+}
+#Filmmm1{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 280px;
+}
+#formatos{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 280px;
+}
+#Film35mm120{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 40px; 
+}
+#Film35mm1201{
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    width: 40px; 
+}
+#juasjuas{
+    text-align: right;
+}
+#imagenes{
+    width: 290px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#GG1{
+    text-align: right;
+}
+#GG2{
+    text-align: left;
+}
